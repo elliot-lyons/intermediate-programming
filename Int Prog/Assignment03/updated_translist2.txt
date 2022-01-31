@@ -1,0 +1,4 @@
+chien/cat
+oiseau/bird
+souris/mouse
+poisson/fish
